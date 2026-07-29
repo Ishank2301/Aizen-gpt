@@ -42,7 +42,7 @@ Thumbs.db
 # VS Code settings
 .vscode/
 
-# Model checkpoints and generated outputs
+# Model checkpoints and generated outputs:
 *.pt
 *.pth
 *.bin
